@@ -1,0 +1,2 @@
+d1cd775 Initial commit
+Initial commit: Basic project structure and core functionality 
